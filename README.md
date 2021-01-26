@@ -1,0 +1,1 @@
+HanghireLogging Test
